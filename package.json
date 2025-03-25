@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "gambling-website",
   "private": true,
   "scripts": {
     "build": "turbo run build",
